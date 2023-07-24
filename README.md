@@ -1,6 +1,5 @@
 [![](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=997&width=435&lines=%F0%9F%91%8B++Hi%2C+this+is+yj8023xx's+Github!)](https://anoyi.com)
 
-I publish open source software here. All the repositories are at your disposal.
 
 ### 😜 Commit Stats
 
