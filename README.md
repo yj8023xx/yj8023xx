@@ -3,5 +3,5 @@
 
 ### 😜 Commit Stats
 
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yj8023xx&count_private=true&show_icons=true&theme=transparent&show_owner=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yj8023xx&show_icons=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yj8023xx&hide=TeX&layout=compact)
 
