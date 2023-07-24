@@ -1,4 +1,4 @@
-![](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=997&width=435&lines=%F0%9F%91%8B++Hi%2C+this+is+yj8023xx's+Github!)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F80ED&width=435&lines=Hi%EF%BC%8Cthis+is+yj8023's+Github!)](https://git.io/typing-svg)
 
 
 ### 😜 Commit Stats
