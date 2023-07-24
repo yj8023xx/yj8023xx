@@ -6,7 +6,7 @@ I publish open source software here. All the repositories are at your disposal.
 
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yj8023xx&count_private=true&show_icons=true&theme=vue-dark&show_owner=true)
 
-![](https://github-profile-trophy.vercel.app/?username=AnoyiX&theme=radical&row=1)
+![](https://github-profile-trophy.vercel.app/?username=yj8023xx&theme=vue-dark&row=1)
 
 ### 🦁 Top Languages
 
